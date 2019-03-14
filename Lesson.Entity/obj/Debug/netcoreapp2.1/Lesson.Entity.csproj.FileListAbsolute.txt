@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\bin\Debug\netcoreapp2.1\Lesson.Entity.deps.json
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\bin\Debug\netcoreapp2.1\Lesson.Entity.dll
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\bin\Debug\netcoreapp2.1\Lesson.Entity.pdb
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\obj\Debug\netcoreapp2.1\Lesson.Entity.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\obj\Debug\netcoreapp2.1\Lesson.Entity.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\obj\Debug\netcoreapp2.1\Lesson.Entity.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\obj\Debug\netcoreapp2.1\Lesson.Entity.AssemblyInfo.cs
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\obj\Debug\netcoreapp2.1\Lesson.Entity.dll
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\obj\Debug\netcoreapp2.1\Lesson.Entity.pdb
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\asus\source\repos\Lesson\Lesson.Entity\obj\Debug\netcoreapp2.1\Lesson.Entity.csproj.CopyComplete

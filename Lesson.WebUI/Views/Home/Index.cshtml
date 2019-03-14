@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@if (User.Identity.IsAuthenticated)
+{
+    <span>@User.Identity.Name</span>
+
+    @if (User.IsInRole("Admin"))
+    {
+        <div>@User.Identity.Name  Admin Hoşgeldin</div>
+    }
+    <a asp-action="Logout" asp-controller="Account" class="btn btn-danger">
+        Oturumu Kapat
+    </a>
+}
+else
+{
+    <a asp-action="Login" asp-controller="Account" class="btn btn-success">
+        Login
+    </a>
+    <a asp-action="Register" asp-controller="Account" class="btn btn-primary">
+        Register
+    </a>
+}
